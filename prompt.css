@@ -1,0 +1,24 @@
+.num{
+    background-color: #282C34;
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    gap: 20px;
+}
+
+input{
+    height: 30px;
+    border-radius: 10px;
+    padding: 10px 30px;
+    outline: none;
+    border: 3px solid #9DA1D2;
+}
+
+#submit{
+    background-color: rgb(121, 168, 193);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
